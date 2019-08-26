@@ -1,0 +1,22 @@
+(a prancssor ablakot erdemes nagy kepernyore tenni, hogy tobb szoveget tudjon megjeleniteni es mindent el tudj olvasni)
+Udvozollek a jatekban!
+Ez itt a Munchkin!
+A jatek soran meg kell probalnod legyozni a szornyeket, vagy elmenekulni.
+Ha legyozod szintet lepsz es kincseket, illetve targyakat kapsz.
+A targyak segitenek a harcban.
+A szinted hatarozza meg, hogy gyozhetsz-e.
+1000 kincsert lephetsz egy szintet.
+A menekules nem mindig sikerul es valamennyi aranyat el is ejtesz kozben.
+A jatek addig tart, amig el nem ered a 10es szintet vagy meg nem halsz!
+A jatek soran a gep folyamatosan ment, szoval ki is lephest es kesobb folytathatod.
+Sok sikert!
+Valassz fajt!
+
+0...Veletlenszeru
+1...Ember
+2...Harcos
+3...kobold
+4...Varazslo
+5...Fizikus
+
+
